@@ -47,6 +47,9 @@ $pip install psycopg2
 - Create Kinesis Delivery Stream: Firehose.
 - Test it by Real-time data streaming.
 
+## Visualization of Alyce Data
+ 
+For visualiztion of Alyce data we first establish a connection between our Database and Tableau .With the implementation of Tableau on Alyce data, stock traders or company can derive meaningful insights from past data and can take appropriate business decisions for future outcomes. With the help of this assignment, A working data warehouse was developed to answer business queries and interesting trends for the growth of the company. Using Tableau, we built dashboards to show trending analysis, contribution analysis along with drill downs and ranking analysis to gather meaningful business insights and geography-wise distribution of clients to answer several new questions for the market investors. 
 
 
 
