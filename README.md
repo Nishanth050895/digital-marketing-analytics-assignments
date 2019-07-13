@@ -1,6 +1,6 @@
 # Info7374 Assignment-1
 
-##Brief introduction of Alyce as a company
+## Brief introduction of Alyce as a company
 
 Alyce is the AI-powered platform that’s redefining direct mail, swag and gifts with its scalable, sustainable, hyper-personalized approach to account-based marketing. Alyce builds real, human relationships that deliver up to twice the named account penetration versus traditional approaches. Founded in December of 2015, Alyce is a privately held company headquartered in Boston, MA.
 
