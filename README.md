@@ -142,13 +142,13 @@ How Can You Improve Your Profit Margin?
 
 Of course, knowing what a good profit margin is and understanding the profit margin is the first step in improving margins. Once we have that data, these are just a few ways we can help the business improve its profit margin:
 
-Decrease expenses: Knowing the profit margin can help uncover bloated spending practices or help you make decisions about where to cut costs. It's all about keeping your overhead as low as possible, while still being able to produce a quality business product.
+`Decrease expenses`: Knowing the profit margin can help uncover bloated spending practices or help you make decisions about where to cut costs. It's all about keeping your overhead as low as possible, while still being able to produce a quality business product.
 
-Cut underperforming products or services: Same here. Perhaps your gross profit margin analysis determines that one of your products is manufactured at a higher cost but isn't selling as well as other products on the market. Making that call is only yours to make, but it's certainly one way to bring up your profit margin percentage if that is indeed the goal.
+`Cut underperforming products or services`: Same here. Perhaps your gross profit margin analysis determines that one of your products is manufactured at a higher cost but isn't selling as well as other products on the market. Making that call is only yours to make, but it's certainly one way to bring up your profit margin percentage if that is indeed the goal.
 
-Increase product offerings or services: Could the business be doing more while maintaining equivalent overhead expenses? If so, this means more money in the pocket. Consider going the extra mile with what you already have, and if we don't need to make huge financial investments in order to accomplish that, then it might be time to just go for it. Remember, your best customer is often the customer you've already won, so consider increasing product offerings or level of services to your most loyal customers to get more out of them.
+`Increase product offerings or services`: Could the business be doing more while maintaining equivalent overhead expenses? If so, this means more money in the pocket. Consider going the extra mile with what you already have, and if we don't need to make huge financial investments in order to accomplish that, then it might be time to just go for it. Remember, your best customer is often the customer you've already won, so consider increasing product offerings or level of services to your most loyal customers to get more out of them.
 
-Increase pricing: Raising prices can be a difficult decision for small businesses that are competing with larger companies, but sometimes it's necessary for your business's long-term survival. Make sure we're not overcharging, but we also want to ensure that we're not undercutting our self with very low prices.
+`Increase pricing`: Raising prices can be a difficult decision for small businesses that are competing with larger companies, but sometimes it's necessary for your business's long-term survival. Make sure we're not overcharging, but we also want to ensure that we're not undercutting our self with very low prices.
 
 ### Happy Customer
 WHY?
