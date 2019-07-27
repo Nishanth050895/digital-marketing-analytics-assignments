@@ -97,5 +97,83 @@ Finally, we would also like to know the payback period of the customer after acq
 
 For some businesses, the payback is immediate because the customer makes a product purchase that is more than their CAC. However, for many subscription and recurring revenue businesses the payback period can be very long!
 
+### Margin Metrics
+Margin Metrics
+
+The most important metrics to track about the business are margins. Margins measure the profitability and are calculated by comparing profits to the revenue. Typically, margins are measured as a percent of revenue.
+Why Does It Matter?
+
+Although there are slight variations on the definition, a profit margin typically represents the percent of revenue earned after all costs, business taxes, depreciation, interests, and other expenses have been deducted.
+
+These are some reasons you should track your profit margins:
+
+It helps you grow your business: Figuring out your profit margins can help you determine excess spending or underperforming products and practices for your business. It's helpful data to have on hand when evaluating how your business moves forward as it grows and expands.
+It helps you flag and resolve issues: Staying in tune with what your profit margin in helps you identify issues you might be having running your business. For instance, if your profit margin is low, you might be having some pricing errors, expense management problems, or accounting issues.
+It's required for financing: You might have a very compelling product, idea, or service that your business offers, but lenders are going to want to know where your profit margin stands before offering you a small business loan. Even if you're already making millions, if lenders don't know whether you're not profitable, it's more difficult to secure financing.
+Once you have your profit margin, you can see how many revenue dollars are actually going to your bottom line, as opposed to covering your business expenses. The profit margin can also reveal whether you've priced your product too high or too low.
+
+How do you calculate Margins?
+
+Gross Margin is calculated by subtracting your total cost of goods sold (COGS) from your total revenue and then dividing by total revenue.
+
+margins
+
+gross_margin
+
+Here,
+
+Total Revenue is sum of Total gifts sold and fee
+
+COGS is total gifts sold
+
+Net Margin is calculated similarly to Gross Margin but instead of subtracting just COGS, you subtract all variable costs which include your COGS, marketing, sales, etc.
+
+Total Revenue is sum of Total gifts sold and fee
+
+Total variable costs is sum of total gifts sold and variable costs (personnel salaries)
+
+The easiest way to blend margins together is a simple weighted averaged, calculated by weighting the margins by the amount of revenue for each product or service.
+
+Grouping all services together to measure the overall service margins
+
+Services like One to One gifting, Swag select & Measurement and Tracking.
+
+How Can You Improve Your Profit Margin?
+
+Of course, knowing what a good profit margin is and understanding the profit margin is the first step in improving margins. Once we have that data, these are just a few ways we can help the business improve its profit margin:
+
+Decrease expenses: Knowing the profit margin can help uncover bloated spending practices or help you make decisions about where to cut costs. It's all about keeping your overhead as low as possible, while still being able to produce a quality business product.
+
+Cut underperforming products or services: Same here. Perhaps your gross profit margin analysis determines that one of your products is manufactured at a higher cost but isn't selling as well as other products on the market. Making that call is only yours to make, but it's certainly one way to bring up your profit margin percentage if that is indeed the goal.
+
+Increase product offerings or services: Could the business be doing more while maintaining equivalent overhead expenses? If so, this means more money in the pocket. Consider going the extra mile with what you already have, and if we don't need to make huge financial investments in order to accomplish that, then it might be time to just go for it. Remember, your best customer is often the customer you've already won, so consider increasing product offerings or level of services to your most loyal customers to get more out of them.
+
+Increase pricing: Raising prices can be a difficult decision for small businesses that are competing with larger companies, but sometimes it's necessary for your business's long-term survival. Make sure we're not overcharging, but we also want to ensure that we're not undercutting our self with very low prices.
+
+### Happy Customer
+WHY?
+
+Customer acquisition is good in getting to know how many customers are frequent users and like the product, but how to identify that these customers or clients are likely to stay in the near future? Majority of the customers stay back mainly because of the services provided by a company or they really like the platform that they do not want to let go. And that is where getting to know the HAPPY CUSTOMERS is crucial.
+
+HOW?
+
+These customers are the people who like the product they are using and will continue to do so unless we really screw it up. So to understand more about this we will have to some form of a survey or analysis to get to know more about it.
+
+We came up with a new service idea of choosing the gifts for our clients rather than choosing by themselves. To do this we will send them a set of questionnaire that they will fill and based on those answers Alyce will choose the gift on behalf of them.
+
+To understand more about this, we will demo this service for a couple of customers, get their reviews and send out a survey to everyone to fill out. Based on their response we can decide that the service is a good idea to retain majority of them or lose all of them.
+
+The is_present? column gives information about clients response if the above service is introduced and is_not_present? column gives information about clients response who are happy with the present set up.
+
+Based on the response we can segregate customers into 5 categories.
+
+Attractive features — Attractive features trigger feelings of satisfaction and delight when present, but users are not dissatisfied if the feature is not included.
+One dimensional feature —These features result in satisfaction if present and dissatisfaction when they are not.
+Must have features — These features are ones that customers expect the product to contain.
+Unimportant features — Users are ambivalent about unimportant features, they simply do not care if they are included or not.
+Undesired features — Including undesired features negates the positive impact of Attractive and One-Dimensional features
+The above study of the survey is based on Kano model, in which he specifies that the customers are not most likely to stay forever if they do not like the product or service anymore and we can draw the graph as shown below.
 
 
+
+Based on the responses, we can ask the customers how likely are they to refer us to others. This is similar to net promoter score which helps us identify who are happy with us or who are not and market accordingly.
