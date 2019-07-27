@@ -177,3 +177,6 @@ The above study of the survey is based on Kano model, in which he specifies that
 
 
 Based on the responses, we can ask the customers how likely are they to refer us to others. This is similar to net promoter score which helps us identify who are happy with us or who are not and market accordingly.
+
+### Claat Documentation
+https://codelabs-preview.appspot.com/?file_id=1NcS4y1krF_q4Kjw9e0v2CsDzBDazVkONEWfafSReIm4#4
