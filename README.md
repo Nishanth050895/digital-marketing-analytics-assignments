@@ -51,6 +51,51 @@ $pip install psycopg2
  
 For visualiztion of Alyce data we first establish a connection between our Database and Tableau .With the implementation of Tableau on Alyce data, stock traders or company can derive meaningful insights from past data and can take appropriate business decisions for future outcomes. With the help of this assignment, A working data warehouse was developed to answer business queries and interesting trends for the growth of the company. Using Tableau, we built dashboards to show trending analysis, contribution analysis along with drill downs and ranking analysis to gather meaningful business insights and geography-wise distribution of clients to answer several new questions for the market investors. 
 
+# Assignment 2
+
+## Same architecture as above
+
+### Objective
+Customer acquisition is one of the important aspect of an organization which helps them to understand more about their expenditure and also the revenue generated from it, so that they can plan accordingly and focus more on those customers which bring value to them.
+
+Margin metrics helps the company to know how much profits they are making and also use it to enhance their business.
+
+### Topics
+
+1. Customer Acquisition -- Nishanth Manjunatha
+
+2. Margin Metrics -- Uthsav Shetty
+
+3. Happy Customers -- Srikanth Reddy Gubballi
+
+### Customer Acuquisition Cost
+Customer acquisition cost (CAC) is a metric that has been growing in use, along with the emergence of Internet companies and web-based advertising campaigns that can be tracked.
+
+CAC, as you probably know, is the cost of convincing a potential customer to buy a product or service.
+
+CAC is not just what you spend on advertising! There are many hidden costs that go into customer acquisition, which may include:
+
+Discounts and promotions
+Publicity costs (including PR)
+Events and conferences
+We need to know the company's CAC so that we understand if the customer's lifetime value (LTV). If LTV is more than you pay to acquire the customer, then we are losing money with every customer.
+
+Attribution: Who gets the credit?
+
+There are a few common attribution models
+
+Last Touch Attribution
+Distributed Attribution
+Decaying Attribution
+Calculating your customer acquisition cost would be much easier if all users came from the same channel
+
+Step 1: Determine how much each channel costs you.
+
+Step 2: Weighted distribution.
+
+Finally, we would also like to know the payback period of the customer after acquisition.
+
+For some businesses, the payback is immediate because the customer makes a product purchase that is more than their CAC. However, for many subscription and recurring revenue businesses the payback period can be very long!
 
 
 
